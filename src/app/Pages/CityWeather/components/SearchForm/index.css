@@ -1,0 +1,9 @@
+.SearchForm .search-fields {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.SearchForm .search-fields .form-control {
+  margin: 0 10px;
+}
